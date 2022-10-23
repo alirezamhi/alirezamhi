@@ -19,35 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" width="47" alt="github logo"  />
 </div>
 
-
-
-###
-
-
-<h2 align="left">🎖️ Stats</h2>
-<br/>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&username=karanwd" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&username=karanwd" height="150" alt="languages graph"  />
-</div>
-
-
-###
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=karanwd&theme=gitdimmed&rank=-C,-?&no-frame=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
 ###
 <h2 align="left"> ✨ Contact Me</h2>
 <br/>
-<div align="center">
-  <a href="mailto:karanshamspirzadeh@gmail.com " target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/karan.pv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=a630d7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://telegram.me/karan_shp" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  
-</div>
+
