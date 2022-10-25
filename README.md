@@ -6,7 +6,7 @@
 </p>
 
 ###
-<h2 align="left">🎓 Skills</h2>
+><h2 align="left">🎓 Skills</h2>
 <br/>
 <div align="left">
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,git,github)](https://skillicons.dev)
