@@ -9,7 +9,10 @@
 <h2 align="left">🎓 Skills</h2>
 <br/>
 <div align="left">
-(https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,git,github)](https://skillicons.dev)
+> <h2>Skills</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,git,github)](https://skillicons.dev)
+
 </div>
 
 
