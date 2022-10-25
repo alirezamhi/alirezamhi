@@ -9,12 +9,12 @@
 ><h2 align="left">🎓 Skills</h2>
 <br/>
 <div align="left">
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,git,github)](https://skillicons.dev)
+>[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,git,github)](https://skillicons.dev)
 </div>
 
 
 ###
-<h2 align="left"> ✨ Contact Me</h2>
+><h2 align="left"> ✨ Contact Me</h2>
 <br/>
 <div align="left">
   <a href="mailto:alirezamohammadkhani2@gmail.com" target="_blank">
