@@ -1,8 +1,8 @@
 <h1 align="left">Hi !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="left">
-  🧔🏻‍♂️ My name is Alireza <br>
-  👨🏻‍💻 I'm a Front-End (reactjs) Developer
+   My name is Alireza <br>
+   I'm a Front-End (reactjs) Developer
 </p>
 
 ###
