@@ -7,7 +7,7 @@
 
 ###
 ><h2 align="left">🎓 Skills</h2>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,nestjs,react,nextjs,redux,bootstrap,sass,git,github,linux,docker,postman,postgres,prisma,webpack.mongodb,tailwind,jest,graphql,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,nestjs,react,nextjs,redux,bootstrap,sass,git,github,linux,docker,postman,postgres,prisma,webpack,mongodb,tailwind,jest,graphql,gitlab)](https://skillicons.dev)
 <br/>
 
 ###
