@@ -7,10 +7,8 @@
 
 ###
 ><h2 align="left">🎓 Skills</h2>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,sass,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nestjs,react,nextjs,redux,bootstrap,sass,git,github,linux,docker,postman,postgres,prisma)](https://skillicons.dev)
 <br/>
-
-
 
 ###
 ><h2 align="left"> ✨ Contact Me</h2>
